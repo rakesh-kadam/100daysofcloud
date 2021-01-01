@@ -5,48 +5,30 @@
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+- Understand Azure subscription and Azure AD.
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- Baics of Cloud Computing.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- Azure Subsription is used to bill resources in Azure Platfrom. Aure AD is the identity service that is used to autenticate and authorize users, group of users or service principle to access azure resources.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- [https://azure.microsoft.com/en-in/services/active-directory/#features](Azure Subscription)
 
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
+- [https://azure.microsoft.com/en-in/services/active-directory/#features](Azure AD)
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+Understood Azure AD and Azure Subscription and posted an artical on medium about Azure Subscription
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+Understand Implementing and Monitoring an Azure Infrastructure.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[https://www.linkedin.com/posts/rakesh-kadam_azure-subscriptions-activity-6750774493905526784-87is](LinkedIn)
