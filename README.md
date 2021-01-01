@@ -16,14 +16,14 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## Rakesh Kadam's Cloud Journey
 
-[✍️ Introduce yourself]
+I wear many hats and crave a challenge. Experience both in tech and sales. My geeky interests lie mostly in Linux, security, DevOps, infrastructure, and automation.
 
-[✍️ Tell us why you started this challenge]
+I want to get more hands on training. I want to have a good understanding how people who live in the dev world see cloud architecture versus my perspective.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+I hopefully will have much further knowledge of the cloud on the perspective of the dev. I hope to have created a new habit of tinkering every day.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [Twitter](https://twitter.com/rakesh__kadam)
+- [LinkedIn](https://www.linkedin.com/in/rakesh-kadam/)
 
 ## Stepping out the door
 
