@@ -12,7 +12,7 @@
 
 ## Cloud Research
 
-- [https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways] (Azure VPN Gateway)
+- [Azure VPN Gateway] (https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways)
 
 ## ☁️ Cloud Outcome
 
@@ -26,4 +26,4 @@ Connect your on-premises network to the Microsoft global network by using Expres
 
 ## Social Proof
 
-[https://twitter.com/rakesh__kadam/status/1437076180394405896](Twitter)
+[Twitter](https://twitter.com/rakesh__kadam/status/1437076180394405896)
