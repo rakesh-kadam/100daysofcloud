@@ -1,28 +1,28 @@
 ## Introduction
 
-- Understand Azure subscription and Azure AD.
+- Connect your on-premises network to Azure with VPN Gateway
 
 ## Prerequisite
 
-- Baics of Cloud Computing.
+- Familiarity with Azure virtual networking
 
 ## Use Case
 
-- Azure Subsription is used to bill resources in Azure Platfrom. Aure AD is the identity service that is used to autenticate and authorize users, group of users or service principle to access azure resources.
+- Connect on-premises networks to Azure by using site-to-site VPN gateways
 
 ## Cloud Research
 
-- [https://azure.microsoft.com/en-in/services/active-directory/#features](Azure Subscription)
-
-- [https://azure.microsoft.com/en-in/services/active-directory/#features](Azure AD)
+- [https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways](Azure VPN Gateway)
 
 ## ☁️ Cloud Outcome
 
-Understood Azure AD and Azure Subscription and posted an artical on medium about Azure Subscription
+- Learned the features and use cases of VPN gateways
+- Learned the requirements for provisioning a VPN gateway
+- Provisioned site-to-site VPN gateways
 
 ## Next Steps
 
-Understand Implementing and Monitoring an Azure Infrastructure.
+Connect your on-premises network to the Microsoft global network by using ExpressRoute
 
 ## Social Proof
 
