@@ -12,7 +12,7 @@
 
 ## Cloud Research
 
-- [Azure VPN Gateway] (https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways)
+[Azure VPN Gateway](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways)
 
 ## ☁️ Cloud Outcome
 
