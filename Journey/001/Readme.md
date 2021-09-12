@@ -28,3 +28,4 @@ Connect your on-premises network to the Microsoft global network by using Expres
 ## Social Proof
 
 [Twitter](https://twitter.com/rakesh__kadam/status/1437076180394405896)
+[Microsoft Learn](https://docs.microsoft.com/en-us/users/rakeshkadam/)
